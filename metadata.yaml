@@ -1,5 +1,8 @@
 _repo: The-Mentor-American-Pioneer-Prose-Writers-Vol-4-Num-6-Serial-No-106-May-1-1916_51731
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51731-h/images/cover.jpg
 creator:
   author:
     agent_name: Mabie, Hamilton Wright
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1421
     wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51731#The-Mentor-American-Pioneer-Prose-Writers-Vol-4-Num-6-Serial-No-106-May-1-1916
 gutenberg_issued: '2016-04-11'
 gutenberg_type: Text
 identifiers:
