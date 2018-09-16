@@ -1,0 +1,32 @@
+_repo: The-Mentor-American-Pioneer-Prose-Writers-Vol-4-Num-6-Serial-No-106-May-1-1916_51731
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: ''
+gutenberg_issued: '2016-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American prose literature'
+- !lcsh 'Authors, American'
+- GITenberg
+tableOfContents: Jonathan Edwards -- Benjamin Franklin -- Charles Brockden Brown --
+  Washington Irving -- James Kirke Paulding -- James Fenimore Cooper -- American pioneer
+  prose writers.
+title: 'The Mentor: American Pioneer Prose Writers,
+
+  Vol. 4, Num. 6, Serial No. 106, May 1, 1916'
+url: http://www.gutenberg.org/ebooks/51731
